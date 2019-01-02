@@ -1,3 +1,15 @@
+commit 936ce93c522e55571e3b3b6aa5feb3ec87fe7732
+Author: Mohammad Amr Khan <mohammedamrkhan@gmail.com>
+Date:   Wed Jan 2 15:09:12 2019 -0500
+
+    further changes to readme
+
+commit e2b6dcb84355caae67deab2d282e8aa3916aea15
+Author: Mohammad Amr Khan <mohammedamrkhan@gmail.com>
+Date:   Wed Jan 2 15:06:27 2019 -0500
+
+    updates to README file, creates updates log and git log file
+
 commit df78b4999d8effc6fa9d93dc475a3c151b0a9c9a
 Author: Mohammad Amr Khan <mohammedamrkhan@gmail.com>
 Date:   Wed Jan 2 14:17:56 2019 -0500
