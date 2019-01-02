@@ -25,3 +25,5 @@ There will also be a change log that contains details about all the changes that
 Also, this repository will contain the git log that will be exported to a .txt file so that a history of changes can be viewed.
 
 
+Please note that the log of git commits will be at least one behind the current number of commits at any time.
+
